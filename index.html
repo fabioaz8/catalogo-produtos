@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Catálogo de Usados - Fábio de Albuquerque</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>📦 Meu Catálogo de Usados - Fábio de Albuquerque</h1>
+  <h2>📱 11 97208 5884 (WhatsApp)</h2>
+  <nav>
+    <button onclick="filterCategory('all')">Todos</button>
+    <button onclick="filterCategory('tecnologia')">Tecnologia</button>
+    <button onclick="filterCategory('hqs')">HQs</button>
+    <button onclick="filterCategory('livros')">Livros</button>
+    <button onclick="filterCategory('vinil')">Vinil</button>
+    <button onclick="filterCategory('vestuario')">Vestuário</button>
+  </nav>
+  <br>
+  <div class="search-box">
+    <h2>🔍 Pesquise aqui:</h2> <input type="text" id="searchInput" placeholder="Buscar produto..." oninput="searchProducts()">
+  </div>
+</header>
+
+<main>
+  <div id="product-list" class="grid"></div>
+</main>
+
+<!-- Modal -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <h2 id="modal-title"></h2>
+    <div id="modal-gallery" class="gallery"></div>
+    <p id="modal-description"></p>
+    <p class="price" id="modal-price"></p>
+  </div>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>
