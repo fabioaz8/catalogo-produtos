@@ -45,21 +45,6 @@
     "sold": false
   },
   {
-    "id": 4,
-    "name": "Coleção Histórica Marvel: O Incrível Hulk/Panini",
-    "category": "hqs",
-    "status_item": "Usado - Como Novo",
-    "price": "R$ 150,00",
-    "description": "Box com 4 volumes das HQs históricas do universo Marvel do Incrível Hulk publicadas pela Editora Panini em 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção.",
-    "images": [
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_hulk.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_Box_hulk.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_Box_hulk.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_hulk.png"
-    ],
-    "sold": false
-  },
-  {
     "id": 5,
     "name": "Batman - O Longo Dia das Bruxas - Parte 1/Eaglemoss",
     "category": "hqs",
