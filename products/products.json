@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Coleção Histórica Marvel: O Incrível Hulk/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 100,00",
+    "description": "Box com 4 volumes das HQs históricas do Incrível Hulk publicadas pela Editora Panini em 2018. HQs no plástico de proteção.",
+    "images": [
+      "images/Capa_box_Hulk.png",
+      "images/Tras_box_Hulk.png",
+      "images/Lombada_box_Hulk.png",
+      "images/4volumes_box_Hulk.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 2,
+    "name": "Notebook Dell i5",
+    "category": "tecnologia",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 1.800,00",
+    "description": "Notebook em bom estado, 8GB RAM, SSD 256GB.",
+    "images": [
+      "images/afterimage.png",
+      "images/BLACK.png",
+      "images/Pavan_.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 3,
+    "name": "Notebook Dell i5",
+    "category": "tecnologia",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 1.800,00",
+    "description": "Notebook em bom estado, 8GB RAM, SSD 256GB.",
+    "images": [
+      "images/afterimage.png",
+      "images/BLACK.png",
+      "images/Pavan_.png"
+    ],
+    "sold": false
+  }
+]

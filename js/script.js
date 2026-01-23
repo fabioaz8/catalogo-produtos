@@ -1,35 +1,30 @@
 let currentCategory = "all";
 
-const products = [
-  {
-    id: 1,
-    name: "Notebook Dell i5",
-    category: "tecnologia",
-    price: "R$ 1.800,00",
-    description: "Notebook em bom estado, 8GB RAM, SSD 256GB.",
-    images: ["images/produto1_1.jpg", "images/produto1_2.jpg"],
-    sold: false
-    /* sold: true */
-  },
-  {
-    id: 2,
-    name: "HQ Batman Ano Um",
-    category: "hqs",
-    price: "R$ 40,00",
-    description: "Clássico da DC Comics em ótimo estado.",
-    images: ["images/produto2_1.jpg"],
-    sold: false
-  },
-  {
-    id: 3,
-    name: "Disco Pink Floyd - The Wall",
-    category: "vinil",
-    price: "R$ 120,00",
-    description: "Vinil original, capa conservada.",
-    images: ["images/produto3_1.jpg", "images/produto3_2.jpg"],
-    sold: false
-  }
-];
+/* ================================
+   CARREGAMENTO DOS PRODUTOS (JSON)
+================================ */
+
+let products = [];
+
+// Lê o arquivo products/products.json
+fetch("products/products.json")
+  .then(response => {
+    if (!response.ok) {
+      throw new Error("Erro ao carregar products.json");
+    }
+    return response.json();
+  })
+  .then(data => {
+    products = data;
+    renderProducts();
+  })
+  .catch(error => {
+    console.error("Erro:", error);
+  });
+
+/* ================================
+   LISTAGEM DE PRODUTOS
+================================ */
 
 const list = document.getElementById("product-list");
 
@@ -58,7 +53,9 @@ function renderProducts(filter = "all", search = "") {
 
     card.innerHTML = `
       <img src="${p.images[0]}" alt="${p.name}">
-      <h3>${p.name}</h3>
+      <h2>${p.name}</h2>
+      <h3>${p.status_item}</h3>
+      <p>${p.description}</p>
       <p>${p.price}</p>
     `;
 
@@ -66,30 +63,14 @@ function renderProducts(filter = "all", search = "") {
   });
 }
 
+/* ================================
+   FILTRO / BUSCA
+================================ */
+
 function filterCategory(cat) {
   currentCategory = cat;
   const term = document.getElementById("searchInput").value;
   renderProducts(cat, term);
-}
-
-function openModal(product) {
-  document.getElementById("modal-title").innerText = product.name;
-  document.getElementById("modal-description").innerText = product.description;
-  document.getElementById("modal-price").innerText = product.price;
-
-  const gallery = document.getElementById("modal-gallery");
-  gallery.innerHTML = "";
-  product.images.forEach(img => {
-    const image = document.createElement("img");
-    image.src = img;
-    gallery.appendChild(image);
-  });
-
-  document.getElementById("modal").style.display = "block";
-}
-
-function closeModal() {
-  document.getElementById("modal").style.display = "none";
 }
 
 function searchProducts() {
@@ -97,4 +78,69 @@ function searchProducts() {
   renderProducts(currentCategory, term);
 }
 
-renderProducts();
+/* ================================
+   MODAL COM IMAGEM GRANDE
+================================ */
+
+function openModal(product) {
+  document.getElementById("modal-title").innerText = product.name;
+ /* document.getElementById("modal-description").innerText = product.description;*/
+  document.getElementById("modal-status_item").innerText = product.status_item;
+  document.getElementById("modal-price").innerText = product.price;
+
+  const gallery = document.getElementById("modal-gallery");
+  gallery.innerHTML = "";
+
+  // força layout vertical
+  gallery.style.display = "flex";
+  gallery.style.flexDirection = "column";
+  gallery.style.alignItems = "center";
+
+  // IMAGEM PRINCIPAL
+  const mainImage = document.createElement("img");
+  mainImage.src = product.images[0];
+  mainImage.style.width = "100%";
+  mainImage.style.height = "500px";
+  mainImage.style.objectFit = "contain";
+  mainImage.style.marginBottom = "5px";
+  mainImage.style.borderRadius = "5px";
+
+  gallery.appendChild(mainImage);
+
+  // MINIATURAS (embaixo)
+  if (product.images.length > 1) {
+    const thumbs = document.createElement("div");
+
+    thumbs.style.display = "flex";
+    thumbs.style.gap = "8px";
+    thumbs.style.justifyContent = "center";
+    thumbs.style.flexWrap = "wrap";          // 🔑 evita scroll horizontal
+    thumbs.style.width = "50%";
+
+    product.images.forEach(img => {
+      const thumb = document.createElement("img");
+      thumb.src = img;
+
+      thumb.style.width = "70px";
+      thumb.style.height = "70px";
+      thumb.style.objectFit = "cover";
+      thumb.style.cursor = "pointer";
+      thumb.style.borderRadius = "4px";
+      thumb.style.border = "2px solid #ddd";
+
+      thumb.onclick = () => {
+        mainImage.src = img;
+      };
+
+      thumbs.appendChild(thumb);
+    });
+
+    gallery.appendChild(thumbs);
+  }
+
+  document.getElementById("modal").style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+}

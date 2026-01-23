@@ -1,0 +1,13 @@
+1. Novo (Zero)
+Novo com etiquetas/lacrado: O produto nunca foi usado, está na embalagem original e, se aplicável, com etiquetas de fábrica.
+2. Como Novo (Seminovo / "Mint Condition")
+Como novo / Impecável: Produto usado pouquíssimas vezes ou apenas desembalado. Não possui marcas de uso visíveis (riscos, manchas ou amassados).
+Seminovo (Excellent Condition): Produto com marcas de uso quase invisíveis. Funciona perfeitamente e está esteticamente conservado. 
+3. Usado (Bom Estado) 
+Bom estado: Produto com marcas de uso visíveis, mas normais para a idade do item. Não possui defeitos funcionais (riscos leves, desbotamento, desgaste nas quinas).
+Usado com marcas leves: Apresenta pequenas marcas estéticas que não afetam o funcionamento. 
+4. Regular (Funcional / Avaria Leve)
+Regular / Com avarias: O produto funciona, mas tem marcas claras de uso (riscos profundos, manchas, desgaste acentuado). O preço deve ser condizente com a condição.
+Necessita pequenos reparos: Funciona, mas possui alguma peça que precisa de troca ou avaria menor que não impede o uso.
+5. Recondicionado (Refurbished)
+Recondicionado / Reembalado: Produto usado que foi revisado, consertado e higienizado pelo fabricante ou profissional, funcionando como novo, mas que pode ter pequenas marcas estéticas. 
