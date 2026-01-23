@@ -1,6 +1,19 @@
 [
   {
     "id": 1,
+    "name": "Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount",
+    "category": "tecnologia",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 12.500,00",
+    "description": "Kit de câmera, lente, baterias e uma mochila de transporte. O kit conta com:\n01(uma) Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount como nova e com apenas 'XXX' Cliques!\n01(uma) Lente Sony Alpha FE 50mm F 1.8 E-Mount Full Frame.\n2 (duas) baterias Sony originais.\n1(uma) mochila de transporte.\nCâmera com pouquíssimo uso em gravações em ambientes internos.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_frente1.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_topo1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 2,
     "name": "Coleção Histórica Marvel: O Incrível Hulk/Panini",
     "category": "hqs",
     "status_item": "Usado - Como Novo",
@@ -15,7 +28,7 @@
     "sold": false
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Coleção Histórica Marvel: Guerras Secretas/Panini",
     "category": "hqs",
     "status_item": "Usado - Como Novo",
@@ -30,7 +43,7 @@
     "sold": false
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Coleção Marvel Terror: A Tumba do Drácula/Panini",
     "category": "hqs",
     "status_item": "Usado - Como Novo",
@@ -56,17 +69,4 @@
     ],
     "sold": false
   },
-  {
-    "id": 6,
-    "name": "Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount",
-    "category": "tecnologia",
-    "status_item": "Usado - Como Novo",
-    "price": "R$ 12.500,00",
-    "description": "Kit de câmera, lente, baterias e uma mochila de transporte. O kit conta com:\n01(uma) Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount como nova e com apenas 'XXX' Cliques!\n01(uma) Lente Sony Alpha FE 50mm F 1.8 E-Mount Full Frame.\n2 (duas) baterias Sony originais.\n1(uma) mochila de transporte.\nCâmera com pouquíssimo uso em gravações em ambientes internos.",
-    "images": [
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_frente1.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_topo1.png"
-    ],
-    "sold": false
-  }
 ]
