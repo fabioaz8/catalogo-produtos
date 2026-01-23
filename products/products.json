@@ -4,32 +4,65 @@
     "name": "Coleção Histórica Marvel: O Incrível Hulk/Panini",
     "category": "hqs",
     "status_item": "Usado - Como Novo",
-    "price": "R$ 100,00",
-    "description": "Box com 4 volumes das HQs históricas do Incrível Hulk publicadas pela Editora Panini em 2018. HQs no plástico de proteção.",
+    "price": "R$ 150,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel do Incrível Hulk publicadas pela Editora Panini em 2018. 3 HQs no plástico de proteção.",
     "images": [
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_hulk.png",
-      "images/Tras_box_Hulk.png",
-      "images/Lombada_box_Hulk.png",
-      "images/4volumes_box_Hulk.png"
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_Box_hulk.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_Box_hulk.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_hulk.png"
     ],
     "sold": false
   },
   {
     "id": 2,
-    "name": "Notebook Dell i5",
-    "category": "tecnologia",
+    "name": "Coleção Histórica Marvel: Guerras Secretas/Panini",
+    "category": "hqs",
     "status_item": "Usado - Como Novo",
-    "price": "R$ 1.800,00",
-    "description": "Notebook em bom estado, 8GB RAM, SSD 256GB.",
+    "price": "R$ 220,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel sobre o arco 'Guerras Secretas' publicadas pela Editora Panini em 2016. 4 HQs no plástico de proteção.",
     "images": [
-      "images/afterimage.png",
-      "images/BLACK.png",
-      "images/Pavan_.png"
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_GuerrasSecretaas.png"
     ],
     "sold": false
   },
   {
     "id": 3,
+    "name": "Coleção Marvel Terror: A Tumba do Drácula/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 200,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel com Wolverine publicadas pela Editora Panini em 2017 e 2018. 3 HQs no plástico de proteção.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_ATumbadoDracula.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 4,
+    "name": "Coleção Histórica Marvel: Wolverine/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 200,00",
+    "description": "Box com 4 volumes das HQs temáticas de Terror do universo Marvel com Conde Drácula publicadas pela Editora Panini em 2017 e 2018. 2 HQs no plástico de proteção.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_Wolverine.png"
+
+
+    ],
+    "sold": false
+  },
+  {
+    "id": 5,
     "name": "Notebook Dell i5",
     "category": "tecnologia",
     "status_item": "Usado - Como Novo",

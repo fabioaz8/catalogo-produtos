@@ -56,7 +56,7 @@ function renderProducts(filter = "all", search = "") {
       <h2>${p.name}</h2>
       <h3>${p.status_item}</h3>
       <p>${p.description}</p>
-      <p>${p.price}</p>
+      <h3>${p.price}</h3>
     `;
 
     list.appendChild(card);
@@ -100,9 +100,9 @@ function openModal(product) {
   const mainImage = document.createElement("img");
   mainImage.src = product.images[0];
   mainImage.style.width = "100%";
-  mainImage.style.height = "500px";
+  mainImage.style.height = "350px";
   mainImage.style.objectFit = "contain";
-  mainImage.style.marginBottom = "5px";
+  mainImage.style.marginBottom = "2px";
   mainImage.style.borderRadius = "5px";
 
   gallery.appendChild(mainImage);
