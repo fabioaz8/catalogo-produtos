@@ -68,5 +68,53 @@
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
     ],
     "sold": false
+  },
+  {
+    "id": 6,
+    "name": "Batman - O Longo Dia das Bruxas - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 2 das histórias do arco 'O longo dia das Bruxas' do Batman publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 7,
+    "name": "Batman: O Nascimento do Demônio - Parte 1/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 1 das histórias do arco 'O Nascimento do Demônio' do Batman publicada pela Editora Eaglemoss em 2016. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 8,
+    "name": "Batman: O Nascimento do Demônio - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 2 das histórias do arco 'O longo dia das Bruxas' do Batman publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 9,
+    "name": "Liga da Justiça América (LJA) - O Prego/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'O Prego' da Liga da Justiça América  publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
   }
 ]
