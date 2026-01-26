@@ -111,7 +111,67 @@
     "category": "hqs",
     "status_item": "Usado - Como Novo",
     "price": "R$ 30,00",
-    "description": "Graphic Novel com a compilação das histórias do arco 'O Prego' da Liga da Justiça América  publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "description": "Graphic Novel com a compilação das histórias do arco 'O Prego' da Liga da Justiça América publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 10,
+    "name": "DC - A Nova Fronteira - Parte 1/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da primeira parte das histórias do arco 'DC - A Nova Fronteira' da Liga da Justiça América publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 11,
+    "name": "DC - A Nova Fronteira - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da segunda parte das histórias do arco 'DC - A Nova Fronteira' da Liga da Justiça América publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 12,
+    "name": "Batman: Sina Macabra/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'Sina Macabra' do Batman publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-42/dc125010/130626",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 13,
+    "name": "Batman: A Luva Negra/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'A luva negra' do Batman publicada pela Editora Eaglemoss em 2018. HQ lacrada no plástico de proteção! Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-65/dc125010/139152",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 14,
+    "name": "Batman - O homem que ri & Asilo Arkham/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias 'O homem que ri' & 'Asilo Arkham' do Batman publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-34/dc125010/128252",
     "images": [
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
     ],
