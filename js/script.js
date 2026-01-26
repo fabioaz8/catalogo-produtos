@@ -84,7 +84,7 @@ function searchProducts() {
 
 function openModal(product) {
   document.getElementById("modal-title").innerText = product.name;
- /* document.getElementById("modal-description").innerText = product.description;*/
+  /* document.getElementById("modal-description").innerText = product.description;*/
   document.getElementById("modal-status_item").innerText = product.status_item;
   document.getElementById("modal-price").innerText = product.price;
 
@@ -143,4 +143,25 @@ function openModal(product) {
 
 function closeModal() {
   document.getElementById("modal").style.display = "none";
+}
+
+/* ================================
+   BOTÃO VOLTAR AO TOPO
+================================ */
+
+const backToTop = document.getElementById("backToTop");
+
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 300) {
+    backToTop.style.display = "flex";
+  } else {
+    backToTop.style.display = "none";
+  }
+});
+
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
 }
