@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "name": "Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount",
+    "category": "tecnologia",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 12.500,00",
+    "description": "Kit de câmera, lente, baterias e uma mochila de transporte. O kit conta com:\n01(uma) Câmera Sony Alpha a7R III Full Frame Mirrorless E-Mount como nova e com apenas 'XXX' Cliques!\n01(uma) Lente Sony Alpha FE 50mm F 1.8 E-Mount Full Frame.\n2 (duas) baterias Sony originais.\n1(uma) mochila de transporte.\nCâmera com pouquíssimo uso em gravações em ambientes internos.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_frente1.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Place_Camera_topo1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 2,
+    "name": "Coleção Histórica Marvel: O Incrível Hulk/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 150,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel do Incrível Hulk publicadas pela Editora Panini em 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_hulk.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_Box_hulk.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_Box_hulk.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_hulk.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 3,
+    "name": "Coleção Histórica Marvel: Guerras Secretas/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 220,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel sobre o arco 'Guerras Secretas' publicadas pela Editora Panini em 2016. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 4 HQs no plástico de proteção.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_GuerrasSecretaas.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 4,
+    "name": "Coleção Marvel Terror: A Tumba do Drácula/Panini",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 200,00",
+    "description": "Box com 4 volumes das HQs históricas do universo Marvel com Wolverine publicadas pela Editora Panini em 2017 e 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_ATumbadoDracula.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_ATumbadoDracula.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 5,
+    "name": "Batman - O Longo Dia das Bruxas - Parte 1/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 1 das histórias do arco 'O longo dia das Bruxas' do Batman publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 6,
+    "name": "Batman - O Longo Dia das Bruxas - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 2 das histórias do arco 'O longo dia das Bruxas' do Batman publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 7,
+    "name": "Batman: O Nascimento do Demônio - Parte 1/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 1 das histórias do arco 'O Nascimento do Demônio' do Batman publicada pela Editora Eaglemoss em 2016. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 8,
+    "name": "Batman: O Nascimento do Demônio - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da parte 2 das histórias do arco 'O longo dia das Bruxas' do Batman publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 9,
+    "name": "Liga da Justiça América (LJA) - O Prego/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'O Prego' da Liga da Justiça América publicada pela Editora Eaglemoss em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 10,
+    "name": "DC - A Nova Fronteira - Parte 1/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da primeira parte das histórias do arco 'DC - A Nova Fronteira' da Liga da Justiça América publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 11,
+    "name": "DC - A Nova Fronteira - Parte 2/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação da segunda parte das histórias do arco 'DC - A Nova Fronteira' da Liga da Justiça América publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura.",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 12,
+    "name": "Batman: Sina Macabra/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'Sina Macabra' do Batman publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-42/dc125010/130626",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 13,
+    "name": "Batman: A Luva Negra/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias do arco 'A luva negra' do Batman publicada pela Editora Eaglemoss em 2018. HQ lacrada no plástico de proteção! Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-65/dc125010/139152",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  },
+  {
+    "id": 14,
+    "name": "Batman - O homem que ri & Asilo Arkham/Eaglemoss",
+    "category": "hqs",
+    "status_item": "Usado - Como Novo",
+    "price": "R$ 30,00",
+    "description": "Graphic Novel com a compilação das histórias 'O homem que ri' & 'Asilo Arkham' do Batman publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-34/dc125010/128252",
+    "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+    ],
+    "sold": false
+  }
+]

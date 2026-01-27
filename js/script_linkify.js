@@ -1,4 +1,3 @@
-
 let currentCategory = "all";
 
 /* ================================
@@ -44,25 +43,39 @@ function renderProducts(filter = "all", search = "") {
     );
   }
 
-  filtered.forEach(p => {
+  filtered.forEach((p, index) => {
     const card = document.createElement("div");
     card.className = "card" + (p.sold ? " sold" : "");
-
-    if (!p.sold) {
-      card.onclick = () => openModal(p);
-    }
+    card.dataset.index = index;
 
     card.innerHTML = `
       <img src="${p.images[0]}" alt="${p.name}">
       <h2>${p.name}</h2>
       <h3>${p.status_item}</h3>
-      <p>${p.description}</p>
+      <p>${linkify(p.description)}</p>
       <h3>${p.price}</h3>
     `;
 
     list.appendChild(card);
   });
 }
+
+list.addEventListener("click", (e) => {
+  const card = e.target.closest(".card");
+
+  if (!card) return;
+
+  // se clicou em link, deixa abrir o link
+  if (e.target.closest("a")) return;
+
+  if (card.classList.contains("sold")) return;
+
+  const index = card.dataset.index;
+  const product = products[index];
+
+  openModal(product);
+});
+
 
 /* ================================
    FILTRO / BUSCA
@@ -85,7 +98,7 @@ function searchProducts() {
 
 function openModal(product) {
   document.getElementById("modal-title").innerText = product.name;
-  /* document.getElementById("modal-description").innerText = product.description;*/
+  document.getElementById("modal-description").innerHTML = linkify(product.description);
   document.getElementById("modal-status_item").innerText = product.status_item;
   document.getElementById("modal-price").innerText = product.price;
 
@@ -103,7 +116,7 @@ function openModal(product) {
   mainImage.style.width = "100%";
   mainImage.style.height = "350px";
   mainImage.style.objectFit = "contain";
-  mainImage.style.marginBottom = "2px";
+  mainImage.style.marginBottom = "8px";
   mainImage.style.borderRadius = "5px";
 
   gallery.appendChild(mainImage);
@@ -115,8 +128,8 @@ function openModal(product) {
     thumbs.style.display = "flex";
     thumbs.style.gap = "8px";
     thumbs.style.justifyContent = "center";
-    thumbs.style.flexWrap = "wrap";          // 🔑 evita scroll horizontal
-    thumbs.style.width = "50%";
+    thumbs.style.flexWrap = "wrap";
+    thumbs.style.width = "100%";
 
     product.images.forEach(img => {
       const thumb = document.createElement("img");
@@ -153,11 +166,7 @@ function closeModal() {
 const backToTop = document.getElementById("backToTop");
 
 window.addEventListener("scroll", () => {
-  if (window.scrollY > 300) {
-    backToTop.style.display = "flex";
-  } else {
-    backToTop.style.display = "none";
-  }
+  backToTop.style.display = window.scrollY > 300 ? "flex" : "none";
 });
 
 function scrollToTop() {
@@ -167,11 +176,17 @@ function scrollToTop() {
   });
 }
 
+/* ================================
+   LINKIFY (TRANSFORMA LINKS EM <a>)
+================================ */
+
 function linkify(text) {
   if (!text) return "";
 
   const urlRegex = /(https?:\/\/[^\s]+)/g;
-  return text.replace(urlRegex, url =>
-    `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`
+
+  return text.replace(
+    urlRegex,
+    url => `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`
   );
 }

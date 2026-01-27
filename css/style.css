@@ -43,6 +43,8 @@ nav button:hover {
   cursor: pointer;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform .2s;
+  /* 🔹 EVITA ESTOURO DE TEXTO */
+  overflow: hidden;
 }
 
 .card:hover {
@@ -60,10 +62,16 @@ nav button:hover {
 .card h3 {
   margin: 10px 0 10px;
   font-size: 14px;
+  word-break: break-word;      /* quebra palavras longas */
+  overflow-wrap: break-word;   /* suporte moderno */
+  white-space: normal;         /* garante quebra de linha */
 }
 
 .card p {
   color: #666;
+  word-break: break-word;      /* quebra palavras longas */
+  overflow-wrap: break-word;   /* suporte moderno */
+  white-space: normal;         /* garante quebra de linha */
 }
 
 /* Modal */
