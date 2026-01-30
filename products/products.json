@@ -18,7 +18,7 @@
    "category": "hqs",
    "status_item": "Usado - Como Novo",
    "price": "R$150,00",
-   "description": "Box com 4 volumes das HQs históricas do universo Marvel do Incrível Hulk publicadas pela Editora Panini em 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção.",
+   "description": "Box com 4 volumes das HQs históricas do universo Marvel do Incrível Hulk publicadas pela Editora Panini em 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 das HQs no plástico de proteção. Mais informações em: http://www.guiadosquadrinhos.com/capas/colecao-historica-marvel-o-incrivel-hulk/co011155",
    "images": [
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_hulk.png",
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_Box_hulk.png",
@@ -33,7 +33,7 @@
    "category": "hqs",
    "status_item": "Usado - Como Novo",
    "price": "R$220,00",
-   "description": "Box com 4 volumes das HQs históricas do universo Marvel sobre o arco 'Guerras Secretas' publicadas pela Editora Panini em 2016. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 4 HQs no plástico de proteção.",
+   "description": "Box com 4 volumes das HQs históricas do universo Marvel sobre o arco 'Guerras Secretas' publicadas pela Editora Panini em 2016. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 4 HQs no plástico de proteção. Mais informações em: http://www.guiadosquadrinhos.com/capas/colecao-historica-marvel-guerras-secretas/co011145",
    "images": [
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png",
@@ -48,7 +48,7 @@
    "category": "hqs",
    "status_item": "Usado - Como Novo",
    "price": "R$200,00",
-   "description": "Box com 4 volumes das HQs históricas do universo Marvel com Wolverine publicadas pela Editora Panini em 2017 e 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção.",
+   "description": "Box com 4 volumes das HQs históricas do universo Marvel com o Conde Drácula publicadas pela Editora Panini em 2017 e 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção. Mais informações em: http://www.guiadosquadrinhos.com/capas/colecao-marvel-terror-a-tumba-do-dracula/co011117",
    "images": [
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_ATumbadoDracula.png",
       "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_ATumbadoDracula.png",
@@ -59,6 +59,21 @@
 },
  {
    "id": 5,
+   "name": "Coleção Histórica Marvel: Wolverine/Panini",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$200,00",
+   "description": "Box com 4 volumes das HQs históricas do universo Marvel com Wolverine publicadas pela Editora Panini em 2017 e 2018. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. 3 HQs no plástico de proteção. Mais informações em: http://www.guiadosquadrinhos.com/capas/colecao-historica-marvel-wolverine/co011149",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Lombada_box_Wolverine.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/4volumes_box_Wolverine.png"
+   ],
+   "sold": false
+},
+ {
+   "id": 6,
    "name": "Batman - O Longo Dia das Bruxas - Parte 1/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -70,7 +85,7 @@
    "sold": false
 },
  {
-   "id": 6,
+   "id": 7,
    "name": "Batman - O Longo Dia das Bruxas - Parte 2/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -82,7 +97,7 @@
    "sold": false
 },
  {
-   "id": 7,
+   "id": 8,
    "name": "Batman: O Nascimento do Demônio - Parte 1/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -94,7 +109,7 @@
    "sold": false
 },
  {
-   "id": 8,
+   "id": 9,
    "name": "Batman: O Nascimento do Demônio - Parte 2/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -106,7 +121,7 @@
    "sold": false
 },
  {
-   "id": 9,
+   "id": 10,
    "name": "Liga da Justiça América (LJA) - O Prego/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -118,7 +133,7 @@
    "sold": false
 },
  {
-   "id": 10,
+   "id": 11,
    "name": "DC - A Nova Fronteira - Parte 1/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -130,7 +145,7 @@
    "sold": false
 },
  {
-   "id": 11,
+   "id": 12,
    "name": "DC - A Nova Fronteira - Parte 2/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -142,7 +157,7 @@
    "sold": false
 },
  {
-   "id": 12,
+   "id": 13,
    "name": "Batman: Sina Macabra/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -154,7 +169,7 @@
    "sold": false
 },
  {
-   "id": 13,
+   "id": 14,
    "name": "Batman: A Luva Negra/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -166,7 +181,7 @@
    "sold": false
 },
  {
-   "id": 14,
+   "id": 15,
    "name": "Batman - O homem que ri & Asilo Arkham/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -178,7 +193,7 @@
    "sold": false
 },
  {
-   "id": 15,
+   "id": 16,
    "name": "Wolverine: Arma X/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -190,7 +205,7 @@
    "sold": false
 },
  {
-   "id": 16,
+   "id": 17,
    "name": "Marvel 1602/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -202,7 +217,7 @@
    "sold": false
 },
  {
-   "id": 17,
+   "id": 18,
    "name": "O Espetacular Homem-Aranha: De Volta ao Lar/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -214,7 +229,7 @@
    "sold": false
 },
  {
-   "id": 18,
+   "id": 19,
    "name": "O Espetacular Homem-Aranha: Revelações & Até Que as Estrelas Esfriem/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -226,7 +241,7 @@
    "sold": false
 },
  {
-   "id": 19,
+   "id": 20,
    "name": "O Espetacular Homem-Aranha: A Última Caçada de Kraven/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -238,7 +253,7 @@
    "sold": false
 },
  {
-   "id": 20,
+   "id": 21,
    "name": "Mulher-Maravilha - O Círculo/Eaglemoss",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -250,7 +265,7 @@
    "sold": false
 },
  {
-   "id": 21,
+   "id": 22,
    "name": "Eu, Wolverine/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -262,7 +277,7 @@
    "sold": false
 },
  {
-   "id": 22,
+   "id": 23,
    "name": "Ultimate Homem-Aranha: A Morte do Homem-Aranha/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -274,7 +289,7 @@
    "sold": false
 },
  {
-   "id": 23,
+   "id": 24,
    "name": "O Espetacular Homem-Aranha: Homem-Aranha Nunca Mais!/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -286,7 +301,7 @@
    "sold": false
 },
  {
-   "id": 24,
+   "id": 25,
    "name": "X-Men: O Cisma/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -298,7 +313,7 @@
    "sold": false
 },
  {
-   "id": 25,
+   "id": 26,
    "name": "Terra das Sombras/Salvat",
    "category": "hqs",
    "status_item": "Novo",
@@ -310,7 +325,7 @@
    "sold": false
 },
  {
-   "id": 26,
+   "id": 27,
    "name": "Invasão secreta/Salvat",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
@@ -322,28 +337,62 @@
    "sold": false
 },
  {
-   "id": 27,
+   "id": 28,
    "name": "Coleção Histórica Marvel: Wolverine/Panini",
    "category": "hqs",
    "status_item": "Usado - Como Novo",
    "price": "R$50,00",
    "description": "Primeiro volume das HQs históricas do universo Marvel sobre o arco 'Wolverine' publicadas pela Editora Panini em 2017. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-historica-marvel-wolverine-n-1/co011149/129643",
    "images": [
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png"
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
    ],
    "sold": false
 },
  {
-   "id": 28,
+   "id": 29,
    "name": "Superman - Entre A Foice e O Martelo (Capa Dura)/Panini",
    "category": "hqs",
    "status_item": "Novo",
    "price": "R$50,00",
    "description": "HQ LACRADA. Graphic Novel sobre o Superman publicada pela Editora Panini em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/superman-entre-a-foice-e-o-martelo-(capa-dura)/su011134/133681",
    "images": [
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
-      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png"
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+   ],
+   "sold": false
+},
+ {
+   "id": 30,
+   "name": "Arqueiro Verde e Lanterna Verde: Na Estrada/Eaglemoss",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias do Arqueiro Verde e Lanterna Verde publicada pela Editora Eaglemoss em 2018. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-59/dc125010/136833",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+   ],
+   "sold": false
+},
+ {
+   "id": 31,
+   "name": "Mulher-Maravilha - Os Olhos da Górgona/Eaglemoss",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias da Mulher-Maravilha publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-47/dc125010/133551",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
+   ],
+   "sold": false
+},
+ {
+   "id": 32,
+   "name": "Superman & Batman - Inimigos Entre Nós/Eaglemoss",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias do Batman e Superman publicada pela Editora Eaglemoss em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/dc-comics-colecao-de-graphic-novels-n-40/dc125010/130301",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png"
    ],
    "sold": false
 }
