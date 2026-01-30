@@ -313,5 +313,110 @@
       ""
    ],
    "sold": false
+},
+ {
+   "id": 22,
+   "name": "Ultimate Homem-Aranha: A Morte do Homem-Aranha/Salvat",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias do Homem-Aranha publicada pela Editora Salvat em 2016. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-oficial-de-graphic-novels-marvel-a-n-69/gr007106/126801",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png",
+      "",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 23,
+   "name": "O Espetacular Homem-Aranha: Homem-Aranha Nunca Mais!/Salvat",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias do Homem-Aranha publicada pela Editora Salvat em 2016. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-oficial-de-graphic-novels-marvel-a-classicos-n-6/co105410/123627",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png",
+      "",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 24,
+   "name": "X-Men: O Cisma/Salvat",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias dos X-men publicada pela Editora Salvat em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-oficial-de-graphic-novels-marvel-a-n-72/gr007106/129486",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png",
+      "",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 25,
+   "name": "Terra das Sombras/Salvat",
+   "category": "hqs",
+   "status_item": "Novo",
+   "price": "R$30,00",
+   "description": "HQ LACRADA. Graphic Novel com a compilação das histórias dos heróis do Universo Marvel publicada pela Editora Salvat em 2016. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-oficial-de-graphic-novels-marvel-a-n-65/gr007106/124463",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png",
+      "",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 26,
+   "name": "Invasão secreta/Salvat",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$30,00",
+   "description": "Graphic Novel com a compilação das histórias dos heróis do Universo Marvel publicada pela Editora Salvat em 2015. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-oficial-de-graphic-novels-marvel-a-n-59/gr007106/119746",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/place_batman_bruxas_capa1.png",
+      "",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 27,
+   "name": "Coleção Histórica Marvel: Wolverine/Panini",
+   "category": "hqs",
+   "status_item": "Usado - Como Novo",
+   "price": "R$50,00",
+   "description": "Primeiro volume das HQs históricas do universo Marvel sobre o arco 'Wolverine' publicadas pela Editora Panini em 2017. Formato: Americano (17 x 26 cm) Colorido/Lombada quadrada. Mais informações em: http://www.guiadosquadrinhos.com/edicao/colecao-historica-marvel-wolverine-n-1/co011149/129643",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png",
+      "",
+      ""
+   ],
+   "sold": false
+},
+ {
+   "id": 28,
+   "name": "Superman - Entre A Foice e O Martelo (Capa Dura)/Panini",
+   "category": "hqs",
+   "status_item": "Novo",
+   "price": "R$50,00",
+   "description": "HQ LACRADA. Graphic Novel sobre o Superman publicada pela Editora Panini em 2017. Formato: Americano (17 x 26 cm) Colorido/Capa dura. Mais informações em: http://www.guiadosquadrinhos.com/edicao/superman-entre-a-foice-e-o-martelo-(capa-dura)/su011134/133681",
+   "images": [
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Capa_box_GuerrasSecretaas.png",
+      "https://tempestadedegatinhos.com.br/wp-content/uploads/2026/01/Tras_box_GuerrasSecretaas.png",
+      "",
+      ""
+   ],
+   "sold": false
 }
 ]
