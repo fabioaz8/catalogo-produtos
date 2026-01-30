@@ -175,3 +175,11 @@ function linkify(text) {
     `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`
   );
 }
+
+function clearSearch() {
+  const input = document.getElementById("searchInput");
+  input.value = "";
+
+  // volta para a categoria atual sem filtro de texto
+  renderProducts(currentCategory, "");
+}

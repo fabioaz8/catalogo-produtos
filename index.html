@@ -23,8 +23,12 @@
     </nav>
     <br>
     <div class="search-box">
-      <h2>🔍 Pesquise aqui:</h2> <input type="text" id="searchInput" placeholder="Buscar produto..."
+      <h2>🔍 Filtre aqui:</h2> <input type="text" id="searchInput" placeholder="Buscar produto..."
         oninput="searchProducts()">
+      <!-- BOTÃO APAGAR PESQUISA -->
+      <button class="clear-search" onclick="clearSearch()">
+        Apagar filtro
+      </button>
     </div>
   </header>
 
